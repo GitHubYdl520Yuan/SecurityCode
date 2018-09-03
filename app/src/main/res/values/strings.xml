@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecurityCode</string>
+    <string name="sc_home">首页</string>
+    <string name="sc_find">发现</string>
+    <string name="sc_mine">我的</string>
+    <string name="sc_class">分类</string>
+
+</resources>
